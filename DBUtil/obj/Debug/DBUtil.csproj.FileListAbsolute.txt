@@ -1,0 +1,15 @@
+D:\C#\Assignment1\DBUtil\DBUtil\bin\Debug\DBUtil.dll
+D:\C#\Assignment1\DBUtil\DBUtil\bin\Debug\DBUtil.pdb
+D:\C#\Assignment1\DBUtil\DBUtil\obj\Debug\DBUtil.csprojAssemblyReference.cache
+D:\C#\Assignment1\DBUtil\DBUtil\obj\Debug\DBUtil.csproj.CoreCompileInputs.cache
+D:\C#\Assignment1\DBUtil\DBUtil\obj\Debug\DBUtil.dll
+D:\C#\Assignment1\DBUtil\DBUtil\obj\Debug\DBUtil.pdb
+D:\C#\Assignment1\DAO\DBUtil\bin\Debug\DBUtil.dll
+D:\C#\Assignment1\DAO\DBUtil\bin\Debug\DBUtil.pdb
+D:\C#\Assignment1\DAO\DBUtil\obj\Debug\DBUtil.csprojAssemblyReference.cache
+D:\C#\Assignment1\DAO\DBUtil\obj\Debug\DBUtil.csproj.CoreCompileInputs.cache
+D:\C#\Assignment1\DAO\DBUtil\obj\Debug\DBUtil.dll
+D:\C#\Assignment1\DAO\DBUtil\obj\Debug\DBUtil.pdb
+D:\C#\Assignment1\DAO\DBUtil\bin\Debug\StudentDTO.dll
+D:\C#\Assignment1\DAO\DBUtil\bin\Debug\StudentDTO.pdb
+D:\C#\Assignment1\DAO\DBUtil\obj\Debug\DBUtil.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBUtil", "DBUtil\DBUtil.csproj", "{6831CE36-F395-432D-929D-93EC362987EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6831CE36-F395-432D-929D-93EC362987EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6831CE36-F395-432D-929D-93EC362987EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6831CE36-F395-432D-929D-93EC362987EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6831CE36-F395-432D-929D-93EC362987EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A0E280-CB85-4F20-8478-2BAA5192A003}
+	EndGlobalSection
+EndGlobal
